@@ -1,0 +1,6 @@
+cd music-generator-app/
+git init
+git remote add origin https://github.com/TonNom/musique-generator-ai.git 
+git add .
+git commit -m "Initial commit"
+git push -u origin master
